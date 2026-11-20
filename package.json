@@ -1,0 +1,17 @@
+{
+  "name": "vox-toolkit",
+  "version": "1.0.0",
+  "description": "Vox-style documentary toolkit for HyperFrames",
+  "bin": {
+    "vox-toolkit": "bin/setup.js"
+  },
+  "files": [
+    "bin",
+    "scripts",
+    "instructions.md",
+    "script.md",
+    "init.py",
+    "requirements.txt",
+    ".env.example"
+  ]
+}
